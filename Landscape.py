@@ -15,7 +15,7 @@ print("--------------- LandScape Encryptor ---------------")
 sentiero = input("\nInserisci la PWD Iniziale: ").encode()
 albero = int(input("Inserisci il numero intermedio dell' albero: "))
 
-# Generatore stringe
+# Generatore stringhe
 def FingerPrintGenerator():
     dati_macchina = (
         str(uuid.getnode()) +
