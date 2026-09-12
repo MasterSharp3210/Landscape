@@ -9,4 +9,4 @@ Alcuni di questi metodi sono: spoofing del master fingerprint, generazione di cr
 Per adesso ti consigliamo di usare il file ```Landscape.py```. Ciò che devi fare è soltanto installare la libreria di faker con ```pip install faker```. Ti consigliamo di usare il file .exe pre-compilato o di usare gli script disponibili nel codice
 
 # Aggiornamenti
-Ovviamente, con il progresso della cyber security in futuro farò molti aggiornamenti riguardo a questo codice già impacchettato. Una delle funzioni che vorrò infatti aggiungere nel futuro è lo spoofing dell'attività Discord (RPC). Perciò rimanete aggiornati!
+Ovviamente, con il progresso della cyber security in futuro farò alcuni aggiornamenti riguardo a questo codice già impacchettato. Una delle funzioni che vorrò infatti aggiungere nel futuro è lo spoofing dell'attività Discord (RPC). Perciò rimanete aggiornati!
