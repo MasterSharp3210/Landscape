@@ -1,5 +1,5 @@
 # Landscape
-Landscape Encryptor è uno script fatto da Itelcan3 & ! Giudizio in Python per aumentare la privacy e la sicurezza online rimanendo anonimi con vari strati di spoofing
+Landscape Encryptor è uno script fatto da Itelcan3 & ! Paygreed in Python per aumentare la privacy e la sicurezza online rimanendo anonimi con vari strati di spoofing
 
 # Metodi di spoofing
 Ci sono diversi metodi che abbiamo attuato per fare in modo che non si riesca a penetrare e riottenere la stringa originale dopo l'hashing...
